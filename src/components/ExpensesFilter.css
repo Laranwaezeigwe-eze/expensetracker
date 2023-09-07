@@ -1,0 +1,11 @@
+.expenses-filter__control {
+color: #FFF;
+}
+.expenses-filter{
+    display: flex;
+    
+}
+.no_expenses{
+    color: #FFF;
+    text-align: center;
+}
